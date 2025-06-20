@@ -328,3 +328,94 @@
 
 | 5-18.js | 다중 커링 함수로 여러 인자를 순차적으로 적용하면 가독성이 떨어지는 문제 발생 |
 
+
+
+---
+
+## Ch.6
+
+
+| 6-1.js | 생성자 함수에 메서드를 prototype으로 정의 |
+
+
+| 6-2.js | 생성자와 인스턴스의 prototype 구조 확인 |
+
+
+| 6-3.js | 배열의 constructor 속성과 new 사용 예 |
+
+
+| 6-4.js | constructor 속성을 재정의해도 instanceof는 false |
+
+
+| 6-5.js | 다양한 방식으로 constructor를 통해 객체 생성 |
+
+
+| 6-6.js | 인스턴스에서 prototype 메서드 오버라이드 |
+
+
+| 6-7.js | 배열에 값 추가 시 인덱스가 ownProperty인지 확인 |
+
+
+| 6-8.js | toString 메서드를 오버라이드해 출력 방식 변경 |
+
+
+| 6-9.js | 객체에 getEntries 메서드 추가 및 자료형 비교 |
+
+
+| 6-10.js | arguments를 유사 배열 형태로 저장하는 Grade 객체 |
+
+
+
+---
+
+## Ch.7
+
+
+| 7-1.js | 인스턴스 메서드와 static 메서드의 차이 비교 |
+
+
+| 7-2.js | Grade의 prototype을 배열로 설정 |
+
+
+| 7-3.js | Grade 인스턴스에 push 사용 시 length 조작 실험 |
+
+
+| 7-4.js | prototype 배열과 인스턴스 배열이 충돌하는 경우 |
+
+
+| 7-5.js | Rectangle과 Square의 메서드를 각각 정의 |
+
+
+| 7-6.js | Square에서 height를 width와 동일하게 할당 |
+
+
+| 7-7.js | Rectangle을 call로 실행하고 prototype 상속 처리 |
+
+
+| 7-8.js | extendClass1 함수로 프로토타입 상속 구현 |
+
+
+| 7-9.js | Bridge 패턴을 사용한 프로토타입 상속 구현 |
+
+
+| 7-10.js | Object.create를 이용한 상속 처리 방식 |
+
+
+| 7-11.js | extendClass1에 constructor 속성 명시 |
+
+
+| 7-12.js | extendClass2에서 super 호출 및 constructor 처리 |
+
+
+| 7-13.js | Object.create로 간결하게 상속 구현 |
+
+
+| 7-14.js | super()와 super('메서드') 호출 구현 |
+
+
+| 7-15.js | ES5와 ES6 클래스의 static/인스턴스 메서드 비교 |
+
+
+| 7-16.js | ES6 class 상속에서 super 키워드 사용 예제 |
+
+
